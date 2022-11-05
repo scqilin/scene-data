@@ -1,8 +1,1 @@
-{
-    "scene":[
-        {
-            "name":"文本",
-            "url":"./assets/scene-data/g1.json"
-        }
-    ]
-}
+{"scene":[{"name":"文本","url":"./assets/scene-data/g1.json"},{"name":"轨迹","url":"./assets/scene-data/g2.json"}]}
