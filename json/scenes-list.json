@@ -1,0 +1,8 @@
+{
+    "scene":[
+        {
+            "name":"文本",
+            "url":"./assets/scene-data/g1.json"
+        }
+    ]
+}
